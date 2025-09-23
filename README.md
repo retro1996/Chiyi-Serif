@@ -1,6 +1,6 @@
 # ZhiyiSerif ( 致一宋体 / 致一宋體 / 致一明朝 / 치일명조 ) 
 
-![後之覧者，亦將有感於斯文](https://github.com/RiyipuSipino/ZhiyiSerif/main/效果圖.bmp)
+![後之覧者，亦將有感於斯文](https://github.com/RiyipuSipino/ZhiyiSerif/main/效果圖.png)
 
 ## 說明
 
